@@ -1,0 +1,1 @@
+This is an engine for ScummVM to for Star Trek 25th Anniversary and Star Trek Judgment Rites. I began worked on this code back in November of 2008, but never made anymore progress that what is here. I'm putting it on a project so that it won't bitrot and in the hopes that someone may want to work on it.
